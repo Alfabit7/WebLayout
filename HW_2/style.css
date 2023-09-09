@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    padding-top: 40px;
+}
+
+.top__content {
+    margin-top: 155px;
+    margin-bottom: 119px;
+}
+
+.top__title {
+    margin-bottom: 17px;
+}
+
+.top__buttons {
+    margin-top: 37px;
+}
+
+.section-partners-logos {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
+
+
+.section__presentation {
+    padding-bottom: 124px;
+}
+
+.presentation__title {
+    padding-top: 127px;
+    padding-bottom: 20px;
+}
+
+.presentation_btn {
+    margin-top: 35px;
+}
+
+.section__features {
+    padding-bottom: 125px;
+}
+
+.features {
+    padding-top: 140px;
+    padding-bottom: 25px;
+}
+
+.features_more {
+    padding-top: 25px;
+
+}
+
+.section__expertise {}
+
+.expertise__info {
+    padding-top: 92px;
+    margin-bottom: 19px;
+}
+
+.expertise__title {
+    margin-bottom: 55px;
+}
+
+.experise__block__title {
+    margin-bottom: 22px;
+}
+
+.experise__block__btn {
+    margin-top: 39px;
+
+}
+
+.expertise__block {
+    padding-bottom: 150px;
+}
+
+.solution__content {
+    padding-bottom: 14px;
+}
+
+.solution__info {
+    margin-bottom: 32px;
+}
+
+.solution__info__title {
+    padding-top: 107px;
+    margin-bottom: 19px;
+}
+
+.solution__content__title {
+    margin-bottom: 8px;
+}
+
+.soluttion__info__text {
+    margin-bottom: 79px;
+}
+
+.solution__block {
+    margin-top: 47px;
+}
+
+.section__experiens {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.request__content {
+    padding-top: 138px;
+    padding-bottom: 138px;
+}
+
+.recquest__info {
+    padding-bottom: 55px;
+}
+
+.recquest__info__title {
+    margin-bottom: 3px;
+}
+
+.section_rates {
+    padding-bottom: 130px;
+}
+
+.rates__info {
+    padding-top: 87px;
+    margin-bottom: 86px;
+}
+
+.rates__title {
+    margin-bottom: 3px;
+}
+
+.rates__block__title {
+    padding-top: 63px;
+    margin-bottom: 6px;
+}
+
+.rates__btn {
+    margin-top: 27px;
+    margin-bottom: 70px;
+}
+
+.section__team {
+    padding-bottom: 100px;
+}
+
+.team__info {
+    margin-bottom: 52px;
+}
+
+.team__info__title {
+    padding-top: 86px;
+    margin-bottom: 12px;
+}
+
+.section_clients {
+    padding-top: 93px;
+    padding-bottom: 100px;
+}
+
+.clients__info {
+    margin-bottom: 55px;
+}
+
+.clients__title {
+    margin-bottom: 19px;
+}
+
+.clients__text {
+    padding-top: 25px;
+    padding-bottom: 26px;
+}
+
+.clients__employee__position {
+    padding-bottom: 27px;
+}
+
+.section__news {
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+
+
+.news__info {
+    margin-bottom: 55px;
+}
+
+.news_title {
+    margin-bottom: 5px;
+}
+
+.news__card {
+    padding-bottom: 45px;
+    margin-bottom: 30px;
+}
+
+.news_card__title {
+    padding-top: 46px;
+    margin-bottom: 22px;
+}
+
+.news__card__likes {
+    margin-bottom: 23px;
+}
+
+.news__card__text {
+    margin-bottom: 26px;
+}
+
+.footer {
+    padding-top: 100px;
+    padding-bottom: 19px;
+}
+
+.footer__main {
+    padding-bottom: 40px;
+    margin-bottom: 26px;
+}
+
+.footer__card {
+    margin-bottom: 50px;
+}
+
+.footer__social {
+    margin-top: 8px;
+}
+
+.footer__copyright {
+    margin-top: 19px;
+    ;
+}
