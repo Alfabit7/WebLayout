@@ -1,0 +1,277 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FFF;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.icon:hover {
+    fill: #F16D7F;
+    stroke: #F16D7F;
+}
+
+.icon__logo {
+    width: 44px;
+    height: 38px;
+}
+
+.search_icon {
+    width: 32px;
+    height: 23px;
+}
+
+
+.icon__burger {
+    width: 32px;
+    height: 23px;
+}
+
+.icon__profile {
+    width: 29px;
+    height: 29px;
+}
+
+.icon__cart {
+    width: 31.996px;
+    height: 29px;
+}
+
+.center {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #222;
+    display: flex;
+    justify-content: space-between;
+    min-height: 74px;
+    align-items: center;
+}
+
+.header__logo {
+    padding-left: 32px;
+    display: flex;
+    gap: 41px;
+    align-items: center;
+}
+
+.header__link_img_logo {
+    width: 44px;
+    height: 38px;
+}
+
+.header__link_img_search {
+    height: 26px;
+    width: 26px;
+
+}
+
+.header__menu {
+    padding-right: 32px;
+    display: flex;
+    gap: 41px;
+    align-items: center;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F1E4E6;
+}
+
+.top__title {
+    width: 283px;
+    border-left: 12px solid #F16D7F;
+    padding-left: 16px;
+}
+
+.top__content {
+    padding-right: 331px;
+
+}
+
+.top__title__the_brand {
+    color: #222;
+    font-family: Lato;
+    font-size: 44px;
+    font-weight: 900;
+}
+
+.top__title__of_luxory {
+    color: #222;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.top__title__fashion {
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.category {
+    padding-top: 65px;
+    margin-bottom: 66px;
+}
+
+.category__cards {
+    display: flex;
+    flex-grow: 1;
+    gap: 30px;
+    justify-content: center;
+    padding-bottom: 30px;
+    flex-wrap: wrap;
+
+}
+
+.category__card {
+    position: relative;
+}
+
+.category__card:hover {
+    opacity: 45%;
+}
+
+.category__card__img {
+    width: 360px;
+    height: 260px;
+}
+
+.category__card__content {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+
+.category__subtitle {
+
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+
+
+}
+
+.category__title {
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.category__card__content__accesories {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}
+
+.products {
+    margin-bottom: 48px;
+}
+
+.products__title {
+    color: #222;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+.products__text {
+    color: #9F9F9F;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 49px;
+}
+
+.product__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 360px);
+    column-gap: 30px;
+    row-gap: 25px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.product__card {
+    width: 360px;
+}
+
+.product__card:hover {
+    opacity: 25%;
+}
+
+
+.products__card__img {
+    padding-bottom: 24px;
+}
+
+.product__card__subtitle {
+    padding-bottom: 16px;
+    padding-left: 16px;
+    color: #000;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.product__card__text {
+    padding-bottom: 16px;
+    padding-left: 16px;
+    color: #5D5D5D;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.product__card__text__price {
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    padding-left: 16px;
+
+}
+
+
+.wrapper__show__product {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.wrapper__show__product__btn {
+    color: #F26376;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 15px 39px;
+    background-color: #FFF;
+    border: 1px solid #F26376;
+}
+
+.wrapper__show__product__btn:hover {
+    color: #000;
+    background-color: #F26376;
+}
