@@ -215,6 +215,7 @@ a {
 
 .product__card {
     width: 360px;
+    background-color: #F8F8F8;
 }
 
 .product__card:hover {
