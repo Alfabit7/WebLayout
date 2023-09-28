@@ -329,8 +329,42 @@ a {
 }
 
 .advantage {
+    background-color: #222;
+}
+
+.advantage__cards {
     display: flex;
     justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 200px;
+}
+
+.advantage__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.advantage__icon {
+    padding-top: 104px;
+    padding-bottom: 28px;
+}
+
+.advantage__title {
+    color: #FBFBFB;
+    font-size: 19.96px;
+    font-weight: 400;
+    padding-bottom: 16px;
+
+}
+
+.advantage__text {
+    color: #FBFBFB;
+    text-align: center;
+    font-size: 13.972px;
+    font-weight: 300;
+    padding-bottom: 104px;
+
 }
 
 @media (max-width:767px) and (min-width:320px) {
