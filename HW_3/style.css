@@ -420,17 +420,7 @@ a {
         width: 80%;
     }
 
-    /* .awards {
-        flex-direction: column;
-        align-items: center;
-        gap: 30px;
-        margin-bottom: 243px;
-        flex-wrap: nowrap;
-    }
 
-    .awards__card {
-        margin-right: 0px;
-    } */
     .awads_grid {
         display: flex;
         flex-direction: column;
